@@ -1,0 +1,18 @@
+{
+  "name": "napa-valley-college",
+  "version": "1.0.0",
+  "description": "Landing page and email templates for Napa Valley College.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "napa-valley-college"
+  },
+  "author": "Corey Roth",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
